@@ -25,7 +25,7 @@ MedLens is built primarily for patients, families, and caregivers tracking routi
 
 ## Proposal & Documentation
 
-Full project details, objectives, data fields, logic plan, and wireframes are available in [`docs/proposal_template.md`](docs/proposal_template.md).
+Full project details, objectives, data fields, logic plan, and wireframes are available in [`docs/Proposal.md`](docs/Proposal.md).
 
 ---
 
